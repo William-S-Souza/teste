@@ -6,7 +6,7 @@ Login do Banco de Dados:
 Usuário: as
 Senha: 123456
 Configuração do Projeto
-Carregue a pasta teste_William dentro da pasta htdocs.
+Baixe o arquivo teste_William.zip e descarregue-o na pasta htdocs.
 Abra o arquivo servidor.php e insira o nome do servidor que você deseja utilizar.
 Restauração do Banco de Dados
 Para restaurar o banco de dados, siga estas etapas:
